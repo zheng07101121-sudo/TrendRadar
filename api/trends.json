@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T09:11:14.486974+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-03-25T09:21:58.858655+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,11 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时51分 ~ 09时11分]"
+          "appearance_count": 9,
+          "time_info": "[04时51分 ~ 09时21分]"
         }
       ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
