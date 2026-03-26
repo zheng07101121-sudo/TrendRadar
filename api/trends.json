@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-03-26T23:08:05.727001+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-03-27T01:06:27.064954+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "普通人健身选户外还是健身房",
-          "url": "https://www.toutiao.com/trending/7620957767108542527/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时39分]"
-        },
-        {
-          "title": "玩了《都市天际线》之后，哪一件关于「城市是怎么运转的」的事最颠覆你之前的认知？",
-          "url": "https://www.zhihu.com/question/2016867295566247152",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时02分]"
-        },
-        {
-          "title": "西安一黑车司机宰客失败驾车冲撞游客后逃离，这种行为如何定性？遇到黑车宰客、威胁时，普通人该怎么应对？",
-          "url": "https://www.zhihu.com/question/2019431532180239336",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "周杰伦新歌堪称三胎带娃实录",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%A0%AA%E7%A7%B0%E4%B8%89%E8%83%8E%E5%B8%A6%E5%A8%83%E5%AE%9E%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
