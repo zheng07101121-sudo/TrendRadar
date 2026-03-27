@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-27T16:58:14.305794+08:00",
-  "total_titles_processed": 1300,
-  "failed_sources": [],
+  "generated_at": "2026-03-27T18:02:16.241714+08:00",
+  "total_titles_processed": 1414,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
