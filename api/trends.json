@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-28T01:01:58.903279+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-28T01:58:11.203341+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "普通人避免猝死的6个建议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E9%81%BF%E5%85%8D%E7%8C%9D%E6%AD%BB%E7%9A%846%E4%B8%AA%E5%BB%BA%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
