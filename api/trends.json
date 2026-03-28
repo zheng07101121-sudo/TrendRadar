@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T07:36:33.280250+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-28T10:28:07.627413+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "普通人避免猝死的6个建议",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时58分 ~ 07时36分]"
+        },
+        {
+          "title": "猪价每斤 5 块多创下近七年新低，专家称下半年有望好转，为什么会这么低？对非养殖业的普通人意味着什么？",
+          "url": "https://www.zhihu.com/question/2020794970571895261",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
