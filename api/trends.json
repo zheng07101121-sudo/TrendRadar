@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T21:01:29.823224+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-28T21:56:14.220867+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             3,
             4,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 21时01分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 21时56分]"
         },
         {
           "title": "普通人避免猝死的6个建议",
