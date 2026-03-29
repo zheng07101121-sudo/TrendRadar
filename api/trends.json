@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-03-29T23:36:02.335385+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-03-30T00:39:39.618865+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "穿搭能让普通人改变气质",
           "url": "https://www.douyin.com/hot/2446623",
           "source": "抖音",
           "ranks": [
-            10,
-            8,
-            5,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时41分 ~ 23时36分]"
-        },
-        {
-          "title": "美国盟友称 俄罗斯对伊朗的援助远超美国的认知",
-          "url": "https://flash.jin10.com/detail/20260329093018104800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "00时39分"
         }
       ]
     }
