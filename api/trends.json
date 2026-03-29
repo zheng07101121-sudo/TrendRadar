@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T10:41:18.996121+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-03-29T13:13:51.493746+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2446623",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 13时13分]"
         },
         {
           "title": "美国盟友称 俄罗斯对伊朗的援助远超美国的认知",
@@ -25,7 +26,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         }
