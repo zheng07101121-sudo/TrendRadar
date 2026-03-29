@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:02:11.166292+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-03-29T22:36:40.267337+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             8,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 22时36分]"
         },
         {
           "title": "美国盟友称 俄罗斯对伊朗的援助远超美国的认知",
