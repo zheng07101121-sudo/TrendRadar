@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T17:23:43.374658+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-30T19:06:02.243056+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "穿搭能让普通人改变气质",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时36分]"
+        },
+        {
+          "title": "30岁普通人如何面对失业焦虑",
+          "url": "https://search.bilibili.com/all?keyword=30%E5%B2%81%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%A4%B1%E4%B8%9A%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         }
       ]
     }
