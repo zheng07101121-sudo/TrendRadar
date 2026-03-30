@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-03-30T23:06:55.204886+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-03-31T01:01:06.320906+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "穿搭能让普通人改变气质",
-          "url": "https://www.douyin.com/hot/2446623",
-          "source": "抖音",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "30岁普通人如何面对失业焦虑",
-          "url": "https://search.bilibili.com/all?keyword=30%E5%B2%81%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%A4%B1%E4%B8%9A%E7%84%A6%E8%99%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
