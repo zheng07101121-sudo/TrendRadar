@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-01T23:18:15.639333+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-04-02T00:59:43.771711+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "张雪建议年轻人条件有限就先搞钱",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9D%A1%E4%BB%B6%E6%9C%89%E9%99%90%E5%B0%B1%E5%85%88%E6%90%9E%E9%92%B1%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
