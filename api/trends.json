@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-04-03T23:41:26.461186+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-04-04T00:43:59.832468+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苑举正：张雪机车夺冠打破四个认知",
-          "url": "https://www.toutiao.com/trending/7623985939023331366/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时52分]"
-        },
-        {
-          "title": "在人工智能高速发展的今天，普通人该如何教育自己的孩子？",
-          "url": "https://www.zhihu.com/question/2019699518124355822",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
