@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-07T23:12:36.243713+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2026-04-08T01:03:11.135027+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "张雪的经历对普通人有借鉴意义吗？热爱赛车真能改变命运吗？",
-          "url": "https://www.zhihu.com/question/2024497482130792977",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
