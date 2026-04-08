@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-08T23:22:20.224448+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-04-09T01:23:37.261953+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人怎么能提高自己的认知呢？",
-          "url": "https://www.zhihu.com/question/1966065751325643164",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
