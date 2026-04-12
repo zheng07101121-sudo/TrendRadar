@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T15:18:52.185518+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-04-12T16:53:41.708929+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "瘫痪且患有认知障碍的 16 岁小孩误买两千多元演唱会门票，平台不予退票，合理吗？有没有更好的解决方式？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 16时53分]"
         },
         {
           "title": "认知高的人都有哪些表现？",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时35分 ~ 06时36分]"
+        },
+        {
+          "title": "吴京真在家带娃了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%9C%9F%E5%9C%A8%E5%AE%B6%E5%B8%A6%E5%A8%83%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
