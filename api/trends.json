@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T21:07:08.400058+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-04-12T22:42:37.147539+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 21时07分]"
+          "appearance_count": 8,
+          "time_info": "[13时27分 ~ 22时42分]"
         },
         {
           "title": "认知高的人都有哪些表现？",
