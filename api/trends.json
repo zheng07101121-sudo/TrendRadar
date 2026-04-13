@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-04-13T22:52:24.505612+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-04-14T00:17:13.623560+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子带娃看病娃走丢 一年后专程致谢",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E7%9C%8B%E7%97%85%E5%A8%83%E8%B5%B0%E4%B8%A2+%E4%B8%80%E5%B9%B4%E5%90%8E%E4%B8%93%E7%A8%8B%E8%87%B4%E8%B0%A2",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            24,
-            27,
-            18,
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 07时39分]"
-        },
-        {
-          "title": "90后夫妻合力冲奶展现带娃实力",
-          "url": "https://www.toutiao.com/trending/7627123412314161194/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
