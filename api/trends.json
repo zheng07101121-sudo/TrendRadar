@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-18T23:40:33.634719+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-04-19T00:44:42.314635+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄澄澄：能把普通人演好我挺骄傲",
-          "url": "https://www.toutiao.com/trending/7628990588406300718/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
