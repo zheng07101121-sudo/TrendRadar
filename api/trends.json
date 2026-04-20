@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-04-20T22:53:58.866359+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-04-21T00:13:30.662922+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "地铁撤掉明星广告 换为划龙舟普通人",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E6%92%A4%E6%8E%89%E6%98%8E%E6%98%9F%E5%B9%BF%E5%91%8A+%E6%8D%A2%E4%B8%BA%E5%88%92%E9%BE%99%E8%88%9F%E6%99%AE%E9%80%9A%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 06时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
