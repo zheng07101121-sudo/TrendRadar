@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-23T06:56:51.636700+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-04-23T07:52:01.180766+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "识质存在 带娃搜打撤",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%20%E5%B8%A6%E5%A8%83%E6%90%9C%E6%89%93%E6%92%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
