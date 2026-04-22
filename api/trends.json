@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-04-22T23:17:18.078750+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-04-23T01:05:25.124187+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全职宝爸带娃累到崩溃闹着要上班",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%81%8C%E5%AE%9D%E7%88%B8%E5%B8%A6%E5%A8%83%E7%B4%AF%E5%88%B0%E5%B4%A9%E6%BA%83%E9%97%B9%E7%9D%80%E8%A6%81%E4%B8%8A%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 06时40分]"
-        },
-        {
-          "title": "说好的谢楠乘风吴京在家带娃呢",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%A5%BD%E7%9A%84%E8%B0%A2%E6%A5%A0%E4%B9%98%E9%A3%8E%E5%90%B4%E4%BA%AC%E5%9C%A8%E5%AE%B6%E5%B8%A6%E5%A8%83%E5%91%A2%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
