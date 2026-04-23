@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:54:24.304420+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-23T19:13:25.280404+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2027998176116777421",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 19时13分]"
         },
         {
           "title": "普通人一生的收入",
           "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%80%E7%94%9F%E7%9A%84%E6%94%B6%E5%85%A5&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 19时13分]"
         },
         {
           "title": "识质存在 带娃搜打撤",
