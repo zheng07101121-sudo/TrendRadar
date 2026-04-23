@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:56:39.352319+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-24T05:50:44.745494+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时50分]"
         },
         {
           "title": "普通人一生的收入",
