@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T21:49:55.324627+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-04-23T23:57:01.065776+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 23时57分]"
         },
         {
           "title": "普通人一生的收入",
@@ -26,11 +26,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时57分]"
         },
         {
           "title": "识质存在 带娃搜打撤",
