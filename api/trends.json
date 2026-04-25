@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:10:26.277940+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-04-25T22:44:55.798841+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 21时10分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 22时44分]"
+        },
+        {
+          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
+          "url": "https://www.zhihu.com/question/2031293637409993812",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时44分]"
         },
         {
           "title": "普通人什么时候能用上6G",
@@ -28,20 +40,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
-          "url": "https://www.zhihu.com/question/2031293637409993812",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时44分]"
         }
       ]
     }
