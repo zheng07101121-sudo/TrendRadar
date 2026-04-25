@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:40:23.741614+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T02:58:12.157035+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2031293637409993812",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时58分]"
         },
         {
           "title": "普通人什么时候能用上6G",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时58分]"
         },
         {
           "title": "普通人如何参与超长期特别国债",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时58分]"
         }
       ]
     }
