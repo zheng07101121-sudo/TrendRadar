@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T23:42:11.087990+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-04-26T00:46:34.000199+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,31 +8,15 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "普通人如何参与超长期特别国债",
-          "url": "https://www.douyin.com/hot/2477788",
-          "source": "抖音",
-          "ranks": [
-            7,
-            12,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 23时42分]"
-        },
-        {
           "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
           "url": "https://www.zhihu.com/question/2031293637409993812",
           "source": "知乎",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "普通人什么时候能用上6G",
@@ -42,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "普通人如何参与超长期特别国债",
+          "url": "https://www.douyin.com/hot/2477788",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         }
       ]
     }
