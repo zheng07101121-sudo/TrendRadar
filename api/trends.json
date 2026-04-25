@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T00:46:34.000199+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-26T01:40:23.741614+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时40分]"
         },
         {
           "title": "普通人什么时候能用上6G",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时40分]"
         },
         {
           "title": "普通人如何参与超长期特别国债",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时40分]"
         }
       ]
     }
