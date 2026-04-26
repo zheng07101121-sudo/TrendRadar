@@ -1,76 +1,22 @@
 {
-  "generated_at": "2026-04-26T23:45:13.159154+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-04-27T00:48:55.231510+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
-          "url": "https://www.zhihu.com/question/2031293637409993812",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 10时56分]"
-        },
-        {
-          "title": "普通人什么时候能用上6G",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E7%94%A8%E4%B8%8A6G",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 10时56分]"
-        },
         {
           "title": "深圳公交站台吸烟男子被罚款！公共场合控烟，不该让普通人去“硬碰硬”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056574",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            12,
-            9,
-            8,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 23时45分]"
-        },
-        {
-          "title": "普通人如何参与超长期特别国债",
-          "url": "https://www.douyin.com/hot/2477788",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时41分]"
-        },
-        {
-          "title": "员工搞副业被判赔公司580万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%90%9E%E5%89%AF%E4%B8%9A%E8%A2%AB%E5%88%A4%E8%B5%94%E5%85%AC%E5%8F%B8580%E4%B8%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "00时48分"
         }
       ]
     }
