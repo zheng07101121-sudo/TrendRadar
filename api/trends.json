@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-04-30T22:02:37.055806+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-05-01T00:22:53.243991+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马上评｜从洗碗机到孕妇买水果，警惕摆拍扭曲婚育认知",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33077464",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 11时27分]"
-        },
-        {
-          "title": "带娃赶火车站台这道缝别忽略",
-          "url": "https://www.toutiao.com/trending/7634419473973854262/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
