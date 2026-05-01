@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-01T07:01:12.880850+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-05-01T08:01:41.565389+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗永浩采访颠覆了我对蔡康永的认知",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%87%87%E8%AE%BF%E9%A2%A0%E8%A6%86%E4%BA%86%E6%88%91%E5%AF%B9%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%9A%84%E8%AE%A4%E7%9F%A5&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
