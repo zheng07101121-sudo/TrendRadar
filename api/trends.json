@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-03T07:48:25.664643+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-03T11:29:15.547976+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
