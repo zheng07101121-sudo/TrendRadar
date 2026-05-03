@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T16:49:17.695152+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-05-03T18:07:59.607392+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 18时07分]"
         },
         {
           "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
@@ -28,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 16时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 18时07分]"
         }
       ]
     }
