@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-03T18:07:59.607392+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-03T19:45:34.756929+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
       "match_count": 2,
       "titles": [
+        {
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 19时45分]"
+        },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
           "url": "https://flash.jin10.com/detail/20260503120603824800",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时28分 ~ 18时07分]"
-        },
-        {
-          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
-          "url": "https://www.zhihu.com/question/2032142179552994728",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 18时07分]"
         }
       ]
     }
