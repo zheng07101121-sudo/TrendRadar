@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T21:17:01.204605+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-03T22:52:19.547853+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时28分 ~ 18时07分]"
+        },
+        {
+          "title": "黄晓明带娃去游乐园 玩得比儿子还嗨",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A6%E5%A8%83%E5%8E%BB%E6%B8%B8%E4%B9%90%E5%9B%AD+%E7%8E%A9%E5%BE%97%E6%AF%94%E5%84%BF%E5%AD%90%E8%BF%98%E5%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     }
