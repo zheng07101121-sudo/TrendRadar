@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-08T11:22:55.353312+08:00",
-  "total_titles_processed": 813,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T14:00:47.494206+08:00",
+  "total_titles_processed": 947,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
