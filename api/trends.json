@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T06:50:44.610705+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-10T07:53:12.228286+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宝妈带娃3年记忆力下降 医生提醒",
@@ -16,8 +16,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 07时53分]"
+        },
+        {
+          "title": "高校设立「婴发展」专业教「带娃」，已招两届本科生，为啥「带娃」还需要读个本科？会让托育行业更专业吗？",
+          "url": "https://www.zhihu.com/question/2033281258353072047",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     }
