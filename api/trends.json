@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T22:59:25.589526+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-05-12T01:29:44.604738+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "高校设立「婴发展」专业教「带娃」，已招两届本科生，为啥「带娃」还需要读个本科？会让托育行业更专业吗？",
-          "url": "https://www.zhihu.com/question/2033281258353072047",
-          "source": "知乎",
+          "title": "成都宝爸提议增设父婴室 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%AE%9D%E7%88%B8%E6%8F%90%E8%AE%AE%E5%A2%9E%E8%AE%BE%E7%88%B6%E5%A9%B4%E5%AE%A4+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "01时29分"
         }
       ]
     }
