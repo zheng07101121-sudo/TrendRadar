@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T21:25:02.940101+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-13T00:23:04.583349+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,18 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "成都宝爸提议增设父婴室 官方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%AE%9D%E7%88%B8%E6%8F%90%E8%AE%AE%E5%A2%9E%E8%AE%BE%E7%88%B6%E5%A9%B4%E5%AE%A4+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
+          "url": "https://www.zhihu.com/question/2037578815958947124",
+          "source": "知乎",
           "ranks": [
-            28,
-            19,
-            22,
-            26
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 06时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
