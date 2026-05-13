@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-05-13T21:13:44.417956+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-05-14T00:49:26.847219+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
-          "url": "https://www.zhihu.com/question/2037578815958947124",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 12时49分]"
-        },
         {
           "title": "父亲带娃在迪士尼排队 3 小时遭优速通「插队」崩溃，园方有哪些更好解决办法？哪些领域应保留「金钱不干预」？",
           "url": "https://www.zhihu.com/question/2037856063542620827",
           "source": "知乎",
           "ranks": [
-            15,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 21时13分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     }
