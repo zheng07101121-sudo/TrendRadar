@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-05-18T20:34:42.241461+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-05-19T00:26:39.977792+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "乌克兰总统泽连斯基：我们的远程打击能力正显著改变战局——更广泛而言，也在改变世界对这场战争的认知。如今，许多合作伙伴已发出信号，表明他们看清了正在发生的一切，也看清了局势的彻底转变——无论是在对这场战争的态度上，还是在对俄罗斯境内目标的可打击范围上。",
-          "url": "https://flash.jin10.com/detail/20260518014811129800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
