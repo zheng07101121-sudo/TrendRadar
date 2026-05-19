@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-05-19T20:41:32.240861+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-05-20T00:23:50.177016+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新加坡总理要求民众「做好抗通胀准备」，请问 2026 年全球通胀趋势一旦确立，普通人能如何抗通胀呢？",
-          "url": "https://www.zhihu.com/question/2039464484771779756",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 20时41分]"
-        },
-        {
-          "title": "家长哭诉女儿遭校园欺凌，沈奕斐称是家长陷入「受害者思维」导致孩子认知扭曲，你认同吗？是家长过度焦虑吗？",
-          "url": "https://www.zhihu.com/question/2039711643739713761",
-          "source": "知乎",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时03分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
