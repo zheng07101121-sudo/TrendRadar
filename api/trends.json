@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T13:03:45.200287+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-05-19T17:50:36.086599+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 17时50分]"
         },
         {
           "title": "家长哭诉女儿遭校园欺凌，沈奕斐称是家长陷入「受害者思维」导致孩子认知扭曲，你认同吗？是家长过度焦虑吗？",
