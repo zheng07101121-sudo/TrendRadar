@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T08:10:10.177256+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-05-19T13:03:45.200287+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2039464484771779756",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时03分]"
         },
         {
           "title": "家长哭诉女儿遭校园欺凌，沈奕斐称是家长陷入「受害者思维」导致孩子认知扭曲，你认同吗？是家长过度焦虑吗？",
           "url": "https://www.zhihu.com/question/2039711643739713761",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时03分]"
         }
       ]
     }
