@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-22T23:50:24.612654+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-05-23T01:54:47.194981+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "教育部喊停「电子带娃」，明确数字产品不能替代玩具和绘本，家长还会用「早教 App」吗？正确带娃该怎么做？",
-          "url": "https://www.zhihu.com/question/2040028397288568612",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
