@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-26T23:37:51.451845+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-05-27T02:29:16.178967+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "普通人要 Codex 有什么用？",
-          "url": "https://www.zhihu.com/question/2020702567198410280",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
