@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T00:55:59.262620+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-29T03:37:14.868211+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时37分]"
         },
         {
           "title": "“帮子女带娃可领补贴”不实",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时37分]"
         },
         {
           "title": "“帮子女带娃可领补贴”不实",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时37分]"
         }
       ]
     }
