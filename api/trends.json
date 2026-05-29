@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-05-29T11:52:21.532769+08:00",
-  "total_titles_processed": 752,
-  "failed_sources": [],
+  "generated_at": "2026-05-29T16:01:48.561776+08:00",
+  "total_titles_processed": 918,
+  "failed_sources": [
+    "toutiao",
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
@@ -48,7 +51,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
