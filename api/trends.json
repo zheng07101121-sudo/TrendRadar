@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-05-30T23:10:10.508689+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-05-31T01:09:42.662841+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美防长称认知到中国能力与实力",
-          "url": "https://www.toutiao.com/trending/7644875437932019775/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 19时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
