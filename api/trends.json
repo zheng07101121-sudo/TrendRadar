@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T08:16:29.404491+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-02T13:51:06.235454+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "普通人也能穿的夏日美女感穿搭",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时51分]"
+        },
+        {
+          "title": "奥数金牌得主从北大退学称「我是普通人」，是何原因让他做出此选择？",
+          "url": "https://www.zhihu.com/question/2044433785199101708",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时51分"
         },
         {
           "title": "一个普通人的最大幸运",
