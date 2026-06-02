@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T02:41:54.719754+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:50:28.353127+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "奥数金牌得主从北大退学称「我是普通人」，是何原因让他做出此选择？",
-          "url": "https://www.zhihu.com/question/2044433785199101708",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
           "title": "普通人也能穿的夏日美女感穿搭",
           "url": "https://www.douyin.com/hot/2519802",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
         },
         {
           "title": "汪峰森林北六一合体带娃",
@@ -35,6 +25,17 @@
           "source": "今日头条",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
+        },
+        {
+          "title": "奥数金牌得主从北大退学称「我是普通人」，是何原因让他做出此选择？",
+          "url": "https://www.zhihu.com/question/2044433785199101708",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
