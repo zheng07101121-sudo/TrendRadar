@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T13:51:06.235454+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-06-02T18:28:31.522350+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2519802",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 18时28分]"
         },
         {
           "title": "奥数金牌得主从北大退学称「我是普通人」，是何原因让他做出此选择？",
@@ -25,9 +26,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时28分]"
         },
         {
           "title": "一个普通人的最大幸运",
