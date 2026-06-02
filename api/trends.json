@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T05:50:28.353127+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-03T07:48:14.661073+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 07时48分]"
         },
         {
           "title": "汪峰森林北六一合体带娃",
@@ -27,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 07时48分]"
         },
         {
           "title": "奥数金牌得主从北大退学称「我是普通人」，是何原因让他做出此选择？",
