@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-05T23:56:59.847117+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-06-06T01:58:49.493827+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国证券账户数比总人口还多，年轻人借钱炒股甚至辞职全职投资，这轮牛市为何成了普通人的「最后一搏」？",
-          "url": "https://www.zhihu.com/question/2045794379957278430",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 20时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
