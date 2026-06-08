@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-08T22:10:26.257737+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-06-09T01:56:27.603954+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么家长不能接受孩子是普通人",
-          "url": "https://www.douyin.com/hot/2527559",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
