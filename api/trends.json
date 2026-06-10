@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-06-10T22:25:15.743304+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-06-11T01:59:53.804508+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待韩国将不炒股的人称作「霹雳穷人」？当股价暴涨暴跌，普通人应该如何应对？",
-          "url": "https://www.zhihu.com/question/2047682761553715535",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 18时05分]"
-        },
-        {
-          "title": "80岁老人认知下降撕碎十多万养老钱",
-          "url": "https://www.toutiao.com/trending/7649646656065273862/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "东北爱情往事2普通人的小确幸",
-          "url": "https://www.douyin.com/hot/2528431",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
