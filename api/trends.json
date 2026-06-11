@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-12T02:17:24.129633+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-12T05:23:40.659249+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "让文化遗产走进普通人生活",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
