@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T12:11:56.788148+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-12T16:59:32.220000+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "让文化遗产走进普通人生活",
@@ -23,11 +23,23 @@
           "url": "https://www.zhihu.com/question/2048513446925357542",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 16时59分]"
+        },
+        {
+          "title": "高考填志愿只剩「搞钱」，家长张口就问薪资，没人在乎孩子热爱吗？",
+          "url": "https://www.zhihu.com/question/2046182337386492654",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "16时59分"
         }
       ]
     }
