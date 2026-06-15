@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-15T21:17:48.338239+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-06-16T02:29:47.860812+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么越是认知水平低的人，越喜欢打断和反驳别人？",
-          "url": "https://www.zhihu.com/question/2030378294319780169",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "普通人要知道的湿厕纸真相",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E6%B9%BF%E5%8E%95%E7%BA%B8%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
