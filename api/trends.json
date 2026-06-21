@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T21:08:39.942960+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-06-21T23:54:40.401235+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 21时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 23时54分]"
         },
         {
           "title": "获表彰见义勇为后，张颂文写下千字感言：继续做好一个普通人",
@@ -32,8 +32,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 23时54分]"
         }
       ]
     }
