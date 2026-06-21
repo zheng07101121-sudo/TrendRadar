@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-22T01:41:58.660007+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T03:45:47.274264+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "获表彰见义勇为后，张颂文写下千字感言：继续做好一个普通人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33423388",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时45分]"
         },
         {
           "title": "巴西宝妈来华带娃没压力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355278&amp;topic_name=%E5%B7%B4%E8%A5%BF%E5%AE%9D%E5%A6%88%E6%9D%A5%E5%8D%8E%E5%B8%A6%E5%A8%83%E6%B2%A1%E5%8E%8B%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 03时45分]"
+        },
+        {
+          "title": "内塔尼亚胡称以色列已改变对伊朗军事行动限制认知",
+          "url": "https://flash.jin10.com/detail/20260622023257219800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "03时45分"
         }
       ]
     }
