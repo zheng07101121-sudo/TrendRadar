@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T05:17:10.077210+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-06-22T07:17:22.433791+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 07时17分]"
         },
         {
           "title": "巴西宝妈来华带娃没压力",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 07时17分]"
         },
         {
           "title": "内塔尼亚胡称以色列已改变对伊朗军事行动限制认知",
