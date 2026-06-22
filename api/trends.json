@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T12:27:18.432020+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-06-22T18:41:17.634499+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2051094313749197066",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 18时41分]"
         },
         {
           "title": "获表彰见义勇为后，张颂文写下千字感言：继续做好一个普通人",
@@ -64,7 +65,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
