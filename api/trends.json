@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T05:25:29.478584+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-25T07:05:56.233527+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 41 岁 C 罗生物年龄仅 28.9 岁，他的食谱永远只有鸡肉、鱼类、蔬菜？普通人效仿可能面临哪些风险？",
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时05分]"
         },
         {
           "title": "普通人不要轻易尝试绑头巾",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 05时25分]"
+        },
+        {
+          "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
+          "url": "https://www.zhihu.com/question/1959565378578510265",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         }
       ]
     }
