@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T19:47:41.124938+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-06-24T22:35:55.634509+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 22时35分]"
         },
         {
           "title": "巴西宝妈来华带娃没压力",
