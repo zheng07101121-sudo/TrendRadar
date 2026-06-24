@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T03:49:53.332084+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-25T05:25:29.478584+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时25分]"
         },
         {
           "title": "普通人不要轻易尝试绑头巾",
@@ -25,11 +26,12 @@
           "source": "微博",
           "ranks": [
             27,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时25分]"
         }
       ]
     }
