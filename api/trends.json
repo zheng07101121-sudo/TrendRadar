@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T01:07:16.762505+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T03:49:53.332084+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2053054134677239570",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时49分]"
         },
         {
           "title": "普通人不要轻易尝试绑头巾",
           "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%B0%9D%E8%AF%95%E7%BB%91%E5%A4%B4%E5%B7%BE&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时49分]"
         }
       ]
     }
