@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-06-25T21:21:36.432770+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-06-26T00:27:54.245129+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何看待 41 岁 C 罗生物年龄仅 28.9 岁，他的食谱永远只有鸡肉、鱼类、蔬菜？普通人效仿可能面临哪些风险？",
-          "url": "https://www.zhihu.com/question/2053054134677239570",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时05分]"
-        },
-        {
-          "title": "普通人不要轻易尝试绑头巾",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%B0%9D%E8%AF%95%E7%BB%91%E5%A4%B4%E5%B7%BE&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            16,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 11时46分]"
-        },
-        {
-          "title": "拼好床真的超出我对苦的认知了",
-          "url": "https://s.weibo.com/weibo?q=%E6%8B%BC%E5%A5%BD%E5%BA%8A%E7%9C%9F%E7%9A%84%E8%B6%85%E5%87%BA%E6%88%91%E5%AF%B9%E8%8B%A6%E7%9A%84%E8%AE%A4%E7%9F%A5%E4%BA%86&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "如何看待在阿根廷、尼日利亚、越南等国家一些普通人宁愿用稳定币也不用本国货币的现象？",
-          "url": "https://www.zhihu.com/question/1959565378578510265",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
