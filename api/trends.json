@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-06-27T22:44:17.712815+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-06-28T00:07:24.980405+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "夫妻两个都要工作，没有老人帮忙带娃，大家都是怎么过来的？",
-          "url": "https://www.zhihu.com/question/12192782598",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 08时11分]"
-        },
-        {
-          "title": "普通人的钱该放哪",
-          "url": "https://www.toutiao.com/trending/7655905805941607955/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 18时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
