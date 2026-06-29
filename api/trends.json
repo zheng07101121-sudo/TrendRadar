@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-29T22:06:31.218109+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-06-30T01:39:36.722851+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Papi 酱自曝原生家庭创伤，心理学上所说的「代际创伤」是啥？真的会在普通人身上代代相传？",
+          "url": "https://www.zhihu.com/question/2054710786757595233",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
