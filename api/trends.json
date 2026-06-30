@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:16:02.239533+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-06-30T13:06:05.621722+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "Papi 酱自曝原生家庭创伤，心理学上所说的「代际创伤」是啥？真的会在普通人身上代代相传？",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时39分 ~ 08时16分]"
+        },
+        {
+          "title": "Papi 酱自曝原生家庭创伤，心理学上所说的「代际创伤」是什么？真的会在普通人身上代代相传？",
+          "url": "https://www.zhihu.com/question/2054710786757595233",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "要有多高认知才能说出这话",
+          "url": "https://s.weibo.com/weibo?q=%E8%A6%81%E6%9C%89%E5%A4%9A%E9%AB%98%E8%AE%A4%E7%9F%A5%E6%89%8D%E8%83%BD%E8%AF%B4%E5%87%BA%E8%BF%99%E8%AF%9D&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         }
       ]
     }
