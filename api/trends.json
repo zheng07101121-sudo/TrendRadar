@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T17:52:02.301348+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-07-01T20:35:56.119031+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "普通人的幸福时刻",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时35分]"
+        },
+        {
+          "title": "“带娃送外卖”可能是摆拍，经济日报：别让虚假苦情透支社会善意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33490990",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
