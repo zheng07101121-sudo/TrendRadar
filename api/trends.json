@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-07-02T22:06:09.632242+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-07-03T00:51:45.589823+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“带娃送外卖”可能是摆拍，经济日报：别让虚假苦情透支社会善意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33490990",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 08时10分]"
-        },
-        {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 16时19分]"
-        },
-        {
-          "title": "普通人的幸福时刻",
-          "url": "https://www.douyin.com/hot/2553967",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 08时10分]"
-        },
-        {
-          "title": "任素汐：主业演员副业歌手都做成了",
-          "url": "https://www.toutiao.com/trending/7657842737781149203/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
