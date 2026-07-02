@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T08:10:41.671546+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-07-02T12:59:38.625696+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时59分 ~ 08时10分]"
         },
         {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 12时59分]"
+        },
+        {
           "title": "普通人的幸福时刻",
           "url": "https://www.douyin.com/hot/2553967",
           "source": "抖音",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 08时10分]"
-        },
-        {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
         }
       ]
     }
