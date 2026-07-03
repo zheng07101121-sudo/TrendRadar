@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T22:10:33.427624+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-07-04T00:27:27.645784+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "志愿填报难,低认知家长拖后腿",
@@ -15,30 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 22时10分]"
-        },
-        {
-          "title": "婆婆不带娃被儿媳妇打断四根肋骨",
-          "url": "https://www.toutiao.com/trending/7657745710352007204/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "男子称妈妈再婚不带娃被打活该",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%A6%88%E5%A6%88%E5%86%8D%E5%A9%9A%E4%B8%8D%E5%B8%A6%E5%A8%83%E8%A2%AB%E6%89%93%E6%B4%BB%E8%AF%A5%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "00时27分"
         }
       ]
     }
