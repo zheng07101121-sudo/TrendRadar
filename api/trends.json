@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T20:08:49.790604+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-07-04T22:39:43.192595+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -16,22 +16,24 @@
             8,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 20时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 22时39分]"
         },
         {
           "title": "网传的哈兰德食谱普通人能照搬吗",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E7%9A%84%E5%93%88%E5%85%B0%E5%BE%B7%E9%A3%9F%E8%B0%B1%E6%99%AE%E9%80%9A%E4%BA%BA%E8%83%BD%E7%85%A7%E6%90%AC%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时39分]"
         }
       ]
     }
