@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T08:06:57.578840+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-07-04T12:37:07.257787+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355867&amp;topic_name=%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E9%9A%BE%2C%E4%BD%8E%E8%AE%A4%E7%9F%A5%E5%AE%B6%E9%95%BF%E6%8B%96%E5%90%8E%E8%85%BF",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 12时37分]"
         }
       ]
     }
