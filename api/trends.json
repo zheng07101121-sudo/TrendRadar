@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-09T23:58:24.174165+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-07-10T02:04:00.881930+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北约峰会关切中国军事活动，外交部：北约应端正对华认知",
-          "url": "https://wallstreetcn.com/livenews/3131173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
