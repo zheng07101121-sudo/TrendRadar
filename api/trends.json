@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-10T19:53:46.301743+08:00",
-  "total_titles_processed": 1181,
-  "failed_sources": [],
+  "generated_at": "2026-07-10T22:32:18.410226+08:00",
+  "total_titles_processed": 1312,
+  "failed_sources": [
+    "baidu",
+    "bilibili-hot-search"
+  ],
   "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
