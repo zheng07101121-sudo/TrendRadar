@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-07-11T23:59:21.140152+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-07-12T01:08:07.274704+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
+          "url": "https://flash.jin10.com/detail/20260712002717195800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
         {
           "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
           "url": "https://www.zhihu.com/question/2058955809854379421",
           "source": "知乎",
           "ranks": [
-            19,
-            17
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         }
       ]
     }
