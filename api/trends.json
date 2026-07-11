@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:51:46.387556+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-07-12T05:52:32.539794+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时52分]"
         },
         {
           "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时52分]"
         }
       ]
     }
