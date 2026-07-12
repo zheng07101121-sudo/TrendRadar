@@ -1,61 +1,22 @@
 {
-  "generated_at": "2026-07-12T22:59:11.919357+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-07-13T00:05:40.785440+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
-          "url": "https://www.zhihu.com/question/2058955809854379421",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时58分]"
-        },
-        {
-          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
-          "url": "https://flash.jin10.com/detail/20260712002717195800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时52分]"
-        },
         {
           "title": "全国 6 月新增新冠超 7 万例，病例数呈上升趋势，这意味着什么？普通人需要打加强针吗？",
           "url": "https://www.zhihu.com/question/2059065054323123594",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时59分]"
-        },
-        {
-          "title": "赵牧辰女友否认知三当三",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%89%A7%E8%BE%B0%E5%A5%B3%E5%8F%8B%E5%90%A6%E8%AE%A4%E7%9F%A5%E4%B8%89%E5%BD%93%E4%B8%89%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "00时05分"
         }
       ]
     }
