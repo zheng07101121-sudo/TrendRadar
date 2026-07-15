@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-15T16:14:49.143365+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-07-15T18:52:31.706112+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "家长月薪3500元请大学生暑假带娃",
+          "url": "https://www.toutiao.com/trending/7662675795064176667/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
