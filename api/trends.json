@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:52:31.706112+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-07-15T20:17:27.525485+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "家长月薪3500元请大学生暑假带娃",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 20时17分]"
+        },
+        {
+          "title": "家长月薪3500元请大学生暑假带娃",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "20时17分"
+        },
+        {
+          "title": "家长月薪3500元请大学生带娃",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%A6%E5%A8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     }
