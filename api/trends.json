@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T02:10:18.880325+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-16T04:11:47.497736+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "微博",
           "ranks": [
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时11分]"
         },
         {
           "title": "家长月薪3500元请大学生暑假带娃",
           "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E5%B8%A6%E5%A8%83",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时11分]"
         },
         {
           "title": "家长月薪3500元请大学生暑假带娃",
@@ -36,11 +38,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时11分]"
         }
       ]
     }
