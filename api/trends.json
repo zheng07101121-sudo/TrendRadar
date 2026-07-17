@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:01:58.425117+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-17T08:06:06.931658+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 08时06分]"
         },
         {
           "title": "母亲带娃蹲守3小时拍下金蝉脱壳",
