@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-18T21:19:52.349594+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-07-18T22:55:48.944313+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "带娃宝妈多次退上铺车票遭限购",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%A6%E5%A8%83%E5%AE%9D%E5%A6%88%E5%A4%9A%E6%AC%A1%E9%80%80%E4%B8%8A%E9%93%BA%E8%BD%A6%E7%A5%A8%E9%81%AD%E9%99%90%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
