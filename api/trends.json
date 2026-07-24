@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T02:21:22.494882+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-25T04:23:06.476909+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 04时23分]"
         },
         {
           "title": "尹烨：王虹邓煜如何改写人类认知边界",
           "url": "https://www.toutiao.com/trending/7666046018932182566/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 04时23分]"
         }
       ]
     }
