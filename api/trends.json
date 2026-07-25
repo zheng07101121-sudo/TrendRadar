@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:07:09.478456+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-07-25T08:06:58.597649+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             18,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 08时06分]"
         },
         {
           "title": "尹烨：王虹邓煜如何改写人类认知边界",
