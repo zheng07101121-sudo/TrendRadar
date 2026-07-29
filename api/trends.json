@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-29T17:39:39.285613+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-07-29T20:03:38.738885+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "下班了 年轻人赶着去做副业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E7%9D%80%E5%8E%BB%E5%81%9A%E5%89%AF%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "老人不听劝阻执意带娃玩游乐设施",
+          "url": "https://www.toutiao.com/trending/7667842638210252854/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
         {
           "title": "普通人的一生到底在追求什么",
           "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E5%88%B0%E5%BA%95%E5%9C%A8%E8%BF%BD%E6%B1%82%E4%BB%80%E4%B9%88&t=31&band_rank=23&Refer=top",
@@ -14,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
