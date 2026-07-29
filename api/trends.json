@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T05:10:28.201567+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-30T06:06:42.180501+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 05时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "不抠字眼是一种认知高的表现",
@@ -26,11 +26,12 @@
           "source": "微博",
           "ranks": [
             18,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 06时06分]"
         }
       ]
     }
