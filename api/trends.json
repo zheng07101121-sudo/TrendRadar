@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-08-04T21:04:47.027361+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-08-05T00:13:31.872593+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
           "url": "https://www.zhihu.com/question/2067576901791638083",
           "source": "知乎",
           "ranks": [
-            14,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 21时04分]"
-        },
-        {
-          "title": "第一次对大骨架有了清晰的认知",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E5%A4%A7%E9%AA%A8%E6%9E%B6%E6%9C%89%E4%BA%86%E6%B8%85%E6%99%B0%E7%9A%84%E8%AE%A4%E7%9F%A5&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 21时04分]"
-        },
-        {
-          "title": "好的传播，不止传递信息，更推动认知。让品牌被更懂市场的人发现。点击了解金十「卓识」计划。<font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260804113150971800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "00时13分"
         }
       ]
     }
