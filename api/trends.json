@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T18:41:47.499960+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-08-04T21:04:47.027361+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 21时04分]"
         },
         {
           "title": "第一次对大骨架有了清晰的认知",
           "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E5%A4%A7%E9%AA%A8%E6%9E%B6%E6%9C%89%E4%BA%86%E6%B8%85%E6%99%B0%E7%9A%84%E8%AE%A4%E7%9F%A5&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 21时04分]"
         },
         {
           "title": "好的传播，不止传递信息，更推动认知。让品牌被更懂市场的人发现。点击了解金十「卓识」计划。<font class=\"important-text\"></font>",
