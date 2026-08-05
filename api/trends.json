@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T20:54:32.419109+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-08-05T23:15:40.414928+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356803&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%AE%9D%E5%A6%88%E5%B8%A6%E5%A8%83%E7%82%92%E8%82%A1%E5%87%80%E8%B5%9A5%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 23时15分]"
         },
         {
           "title": "全国二手房交易占比超新房，存量房时代普通人应该怎么对待房产？",
