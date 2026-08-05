@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:38:15.105780+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-06T05:12:27.970523+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时12分]"
         },
         {
           "title": "出国帮子女带娃的老人在夹缝中煎熬",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             17,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 05时12分]"
         }
       ]
     }
