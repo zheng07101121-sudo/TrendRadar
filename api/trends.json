@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T08:05:13.575569+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-08-05T12:12:00.815943+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "全国二手房交易占比超新房，存量房时代普通人应该怎么对待房产？",
+          "url": "https://www.zhihu.com/question/2067548238152823745",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
         {
           "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
           "url": "https://www.zhihu.com/question/2067576901791638083",
