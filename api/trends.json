@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T16:39:29.336354+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-08-06T19:25:07.030528+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             9,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 19时25分]"
         },
         {
           "title": "出国帮子女带娃的老人在夹缝中煎熬",
