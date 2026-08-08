@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-08T07:35:47.029020+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-08-08T09:45:21.678654+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子带娃漂流落水 教练员称不敢捞",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A8%83%E6%BC%82%E6%B5%81%E8%90%BD%E6%B0%B4+%E6%95%99%E7%BB%83%E5%91%98%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%8D%9E",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
