@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:56:26.287141+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-08-08T15:52:14.010341+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时52分]"
         },
         {
           "title": "女子带娃漂流落水 教练员称不敢捞",
