@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:36:47.800876+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-08-09T23:34:15.049922+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             13,
             9,
             12,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 22时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时59分 ~ 23时34分]"
         },
         {
           "title": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？",
@@ -42,11 +43,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时36分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时34分]"
         }
       ]
     }
