@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-09T20:54:19.977806+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-08-09T21:51:45.738185+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
+          "url": "https://www.zhihu.com/question/2069321207866987893",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            13,
+            9,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时59分 ~ 21时51分]"
+        },
         {
           "title": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？",
           "url": "https://www.zhihu.com/question/2069125628117214469",
@@ -21,19 +37,15 @@
           "time_info": "[09时51分 ~ 13时07分]"
         },
         {
-          "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
-          "url": "https://www.zhihu.com/question/2069321207866987893",
-          "source": "知乎",
+          "title": "普通人如何抓住科技红利",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            14,
-            13,
-            9,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 20时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     }
