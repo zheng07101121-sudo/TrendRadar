@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:34:00.570373+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-10T07:34:24.716443+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "普通人如何抓住科技红利",
