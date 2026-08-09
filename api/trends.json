@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:43:06.916912+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-08-10T03:35:17.301587+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时35分]"
         },
         {
           "title": "普通人如何抓住科技红利",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 03时35分]"
         }
       ]
     }
