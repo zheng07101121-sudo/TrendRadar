@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-08-10T21:12:38.037679+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-08-11T00:06:38.652693+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
-          "url": "https://www.zhihu.com/question/2069321207866987893",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            4,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "普通人如何抓住科技红利",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28,
-            10,
-            20,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 17时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
