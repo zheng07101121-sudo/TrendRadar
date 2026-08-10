@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T11:58:39.636633+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-08-10T13:40:33.876802+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             26,
             28,
             10,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 11时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 13时40分]"
         }
       ]
     }
