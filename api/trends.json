@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-11T23:17:17.070760+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-08-12T00:07:18.630741+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你认为怎样才能快速提高自己的认知？",
-          "url": "https://www.zhihu.com/question/1913250136676627688",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时43分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
