@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-14T22:54:38.963750+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-08-15T06:25:41.825762+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么认知高的人最终都会走向金融市场？",
-          "url": "https://www.zhihu.com/question/2047298291281422231",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 12时50分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
