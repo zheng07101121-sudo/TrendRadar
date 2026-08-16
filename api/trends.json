@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-16T23:23:50.170884+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-08-17T00:27:53.487684+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "中年失业 40多岁 宝爸 副业 带娃 全职爸爸 口播 男性成长 中年危机 居家创业 普通人 认知 搞钱",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "9月起四川正式“依法带娃”",
-          "url": "https://www.baidu.com/s?wd=9%E6%9C%88%E8%B5%B7%E5%9B%9B%E5%B7%9D%E6%AD%A3%E5%BC%8F%E2%80%9C%E4%BE%9D%E6%B3%95%E5%B8%A6%E5%A8%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时41分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://zheng07101121.github.io/TrendRadar/img/news.jpg"
 }
